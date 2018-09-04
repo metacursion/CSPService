@@ -18,7 +18,9 @@ component
       })
 ```
 
-WARNING:
-See also:
+WARNING: CSP Settings are not documented in Tooling API spec, hence it might stop working at any time.
+
+See also: https://github.com/metacursion/RemoteSitesService
+
 
 License: BSD
